@@ -16,21 +16,21 @@
 <view class="chengjiu">
 
 
-  <navigator url='../fankui/fankui' hover-class='changestyle'>
+  <navigator url='fankui/fankui' hover-class='changestyle'>
     <view class="chengjiu1">
       <image src='/images/图片1.png'></image>
     </view>
     <view>说走就走</view>
   </navigator>
 
-  <navigator url='../fankui/fankui' hover-class='changestyle'>
+  <navigator url='fankui/fankui' hover-class='changestyle'>
     <view class="chengjiu1">
       <image src='/images/图片1.png'></image>
     </view>
     <view>说走就走</view>
   </navigator>
 
-  <navigator url='../fankui/fankui' hover-class='changestyle'>
+  <navigator url='fankui/fankui' hover-class='changestyle'>
     <view class="chengjiu1">
       <image src='/images/图片1.png'></image>
     </view>
@@ -38,21 +38,21 @@
   </navigator>
 </view>
 <view class="chengjiu">
-  <navigator url='../fankui/fankui' hover-class='changestyle'>
+  <navigator url='fankui/fankui' hover-class='changestyle'>
     <view class="chengjiu1">
       <image src='/images/图片1.png'></image>
     </view>
     <view>说走就走</view>
   </navigator>
 
-  <navigator url='../fankui/fankui' hover-class='changestyle'>
+  <navigator url='fankui/fankui' hover-class='changestyle'>
     <view class="chengjiu1">
       <image src='/images/图片1.png'></image>
     </view>
     <view>说走就走</view>
   </navigator>
 
-  <navigator url='../fankui/fankui' hover-class='changestyle'>
+  <navigator url='fankui/fankui' hover-class='changestyle'>
     <view class="chengjiu1">
       <image src='/images/图片1.png'></image>
     </view>
@@ -62,7 +62,7 @@
 </view>
 
 
-<navigator url='../guanyuwomen/guanyuwomen' hover-class='changestyle'>
+<navigator url='guanyuwomen/guanyuwomen' hover-class='changestyle'>
   <view class='women'>
     <text>关于我们?</text>
   </view>

@@ -11,47 +11,15 @@ Page({
   /**
    * 生命周期函数--监听页面加载
    */
-  clickimage1: function () {
+  clickimage: function (res) {
+  
+    var lujing = res.currentTarget.id;
+    var uuu="../"+lujing+"/"+lujing;
     wx.navigateTo({
-      url: '../model1/model1',
+      url: uuu,
     })
   },
 
-  clickimage10: function () {
-    wx.navigateTo({
-      url: '../model10/model10',
-    })
-  },
-
-  clickimage12: function () {
-    wx.navigateTo({
-      url: '../model12/model12',
-    })
-  },
-
-  clickimage13: function () {
-    wx.navigateTo({
-      url: '../model13/model13',
-    })
-  },
-
-  clickimage3: function () {
-    wx.navigateTo({
-      url: '../model3/model3',
-    })
-  },
-
-  clickimage7: function () {
-    wx.navigateTo({
-      url: '../model7/model7',
-    })
-  },
-
-  clickimage9: function () {
-    wx.navigateTo({
-      url: '../model9/model9',
-    })
-  },
   onLoad: function (options) {
 
   },
